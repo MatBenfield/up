@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Morning",
+    "url": "https://morning.thechels.uk",
+    "slug": "morning",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 166
+  },
+  {
+    "name": "toCFCws",
+    "url": "https://app.thechels.uk",
+    "slug": "to-cf-cws",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 70
+  },
+  {
+    "name": "Blog",
+    "url": "https://thechels.uk",
+    "slug": "blog",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 105
+  },
+  {
+    "name": "Finances",
+    "url": "https://finances.thechels.uk",
+    "slug": "finances",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 147
+  },
+  {
+    "name": "Horoscopes",
+    "url": "https://horofootball.thechels.uk",
+    "slug": "horoscopes",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 73
+  },
+  {
+    "name": "Crisis",
+    "url": "https://isthereacrisis.thechels.uk",
+    "slug": "crisis",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 85
+  }
+]
