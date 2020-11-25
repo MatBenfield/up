@@ -1,34 +1,50 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
+    "name": "Morning",
+    "url": "https://morning.thechels.uk",
+    "slug": "morning",
     "status": "up",
     "uptime": "100.00%",
-    "time": 53
+    "time": 223
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "toCFCws",
+    "url": "https://app.thechels.uk",
+    "slug": "to-cf-cws",
     "status": "up",
     "uptime": "100.00%",
-    "time": 93
+    "time": 68
   },
   {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
+    "name": "Blog",
+    "url": "https://thechels.uk",
+    "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 192
+    "time": 86
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Finance",
+    "url": "https://finance.thechels.uk",
+    "slug": "finance",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "6.12%",
     "time": 0
+  },
+  {
+    "name": "Horoscopes",
+    "url": "https://horofootball.thechels.uk",
+    "slug": "horoscopes",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 74
+  },
+  {
+    "name": "Crisis",
+    "url": "https://isthereacrisis.thechels.uk",
+    "slug": "crisis",
+    "status": "up",
+    "uptime": "100.00%",
+    "time": 107
   }
 ]
