@@ -10,8 +10,8 @@ sites:
     url: https://app.thechels.uk
   - name: Blog
     url: https://thechels.uk
-  - name: Finance
-    url: https://finance.thechels.uk
+  - name: Finances
+    url: https://finances.thechels.uk
   - name: Horoscopes
     url: https://horofootball.thechels.uk
   - name: Crisis
