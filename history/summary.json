@@ -5,7 +5,7 @@
     "slug": "morning",
     "status": "up",
     "uptime": "100.00%",
-    "time": 116
+    "time": 129
   },
   {
     "name": "toCFCws",
@@ -13,7 +13,7 @@
     "slug": "to-cf-cws",
     "status": "up",
     "uptime": "100.00%",
-    "time": 81
+    "time": 88
   },
   {
     "name": "Blog",
@@ -29,7 +29,7 @@
     "slug": "finances",
     "status": "up",
     "uptime": "100.00%",
-    "time": 78
+    "time": 84
   },
   {
     "name": "Horoscopes",
@@ -37,7 +37,7 @@
     "slug": "horoscopes",
     "status": "up",
     "uptime": "100.00%",
-    "time": 84
+    "time": 83
   },
   {
     "name": "Crisis",
@@ -45,6 +45,6 @@
     "slug": "crisis",
     "status": "up",
     "uptime": "100.00%",
-    "time": 88
+    "time": 85
   }
 ]
