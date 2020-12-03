@@ -5,7 +5,15 @@
     "slug": "morning",
     "status": "up",
     "uptime": "100.00%",
-    "time": 129
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 128,
+    "timeDay": 116,
+    "timeWeek": 125,
+    "timeMonth": 128,
+    "timeYear": 128
   },
   {
     "name": "toCFCws",
@@ -13,7 +21,15 @@
     "slug": "to-cf-cws",
     "status": "up",
     "uptime": "100.00%",
-    "time": 88
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 93,
+    "timeDay": 128,
+    "timeWeek": 102,
+    "timeMonth": 93,
+    "timeYear": 93
   },
   {
     "name": "Blog",
@@ -21,7 +37,15 @@
     "slug": "blog",
     "status": "up",
     "uptime": "100.00%",
-    "time": 108
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 111,
+    "timeDay": 130,
+    "timeWeek": 119,
+    "timeMonth": 111,
+    "timeYear": 111
   },
   {
     "name": "Finances",
@@ -29,7 +53,15 @@
     "slug": "finances",
     "status": "up",
     "uptime": "100.00%",
-    "time": 84
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 84,
+    "timeDay": 81,
+    "timeWeek": 78,
+    "timeMonth": 84,
+    "timeYear": 84
   },
   {
     "name": "Horoscopes",
@@ -37,7 +69,15 @@
     "slug": "horoscopes",
     "status": "up",
     "uptime": "100.00%",
-    "time": 83
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 89,
+    "timeDay": 136,
+    "timeWeek": 95,
+    "timeMonth": 89,
+    "timeYear": 89
   },
   {
     "name": "Crisis",
@@ -45,6 +85,14 @@
     "slug": "crisis",
     "status": "up",
     "uptime": "100.00%",
-    "time": 85
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 82,
+    "timeDay": 56,
+    "timeWeek": 72,
+    "timeMonth": 82,
+    "timeYear": 82
   }
 ]
