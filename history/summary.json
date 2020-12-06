@@ -9,11 +9,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 87,
-    "timeWeek": 124,
-    "timeMonth": 128,
-    "timeYear": 128
+    "time": 131,
+    "timeDay": 163,
+    "timeWeek": 132,
+    "timeMonth": 131,
+    "timeYear": 131
   },
   {
     "name": "toCFCws",
@@ -25,11 +25,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 83,
-    "timeWeek": 105,
-    "timeMonth": 98,
-    "timeYear": 98
+    "time": 121,
+    "timeDay": 395,
+    "timeWeek": 151,
+    "timeMonth": 121,
+    "timeYear": 121
   },
   {
     "name": "Blog",
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 157,
-    "timeWeek": 120,
-    "timeMonth": 112,
-    "timeYear": 112
+    "time": 118,
+    "timeDay": 185,
+    "timeWeek": 138,
+    "timeMonth": 118,
+    "timeYear": 118
   },
   {
     "name": "Finances",
@@ -57,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 165,
-    "timeWeek": 95,
-    "timeMonth": 92,
-    "timeYear": 92
+    "time": 96,
+    "timeDay": 136,
+    "timeWeek": 104,
+    "timeMonth": 96,
+    "timeYear": 96
   },
   {
     "name": "Horoscopes",
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 87,
-    "timeDay": 62,
-    "timeWeek": 97,
-    "timeMonth": 87,
-    "timeYear": 87
+    "time": 92,
+    "timeDay": 152,
+    "timeWeek": 109,
+    "timeMonth": 92,
+    "timeYear": 92
   },
   {
     "name": "Crisis",
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 82,
-    "timeDay": 83,
-    "timeWeek": 69,
-    "timeMonth": 82,
-    "timeYear": 82
+    "time": 85,
+    "timeDay": 129,
+    "timeWeek": 76,
+    "timeMonth": 85,
+    "timeYear": 85
   }
 ]
