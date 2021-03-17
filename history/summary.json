@@ -4,19 +4,19 @@
     "url": "https://morning.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/morning.thechels.uk",
     "slug": "morning",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 168,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 287,
+    "timeDay": 140,
+    "timeWeek": 115,
+    "timeMonth": 283,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2021-03-17": 2
+      "2021-03-17": 19
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/app.thechels.uk",
     "slug": "to-cf-cws",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 125,
-    "timeDay": 134,
-    "timeWeek": 96,
+    "timeDay": 127,
+    "timeWeek": 99,
     "timeMonth": 124,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2021-03-17": 1
+      "2021-03-17": 18
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://thechels.uk",
     "icon": "https://favicons.githubusercontent.com/thechels.uk",
     "slug": "blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 156,
-    "timeDay": 142,
-    "timeWeek": 104,
-    "timeMonth": 286,
-    "timeYear": 156,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 157,
+    "timeDay": 194,
+    "timeWeek": 122,
+    "timeMonth": 284,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2021-03-17": 1
+      "2021-03-17": 18
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://finances.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/finances.thechels.uk",
     "slug": "finances",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 60,
-    "timeWeek": 105,
-    "timeMonth": 114,
-    "timeYear": 109,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 108,
+    "timeDay": 70,
+    "timeWeek": 102,
+    "timeMonth": 113,
+    "timeYear": 108,
     "dailyMinutesDown": {
-      "2021-03-17": 1
+      "2021-03-17": 18
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://horofootball.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/horofootball.thechels.uk",
     "slug": "horoscopes",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 100,
-    "timeDay": 54,
-    "timeWeek": 74,
+    "timeDay": 73,
+    "timeWeek": 76,
     "timeMonth": 99,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 17
     }
   },
   {
@@ -104,19 +104,19 @@
     "url": "https://isthereacrisis.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/isthereacrisis.thechels.uk",
     "slug": "crisis",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 165,
-    "timeWeek": 109,
-    "timeMonth": 116,
-    "timeYear": 114,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 113,
+    "timeDay": 123,
+    "timeWeek": 105,
+    "timeMonth": 115,
+    "timeYear": 113,
     "dailyMinutesDown": {
-      "2021-03-17": 0
+      "2021-03-17": 17
     }
   }
 ]
