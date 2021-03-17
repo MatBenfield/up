@@ -24,10 +24,10 @@
     "url": "https://app.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/app.thechels.uk",
     "slug": "to-cf-cws",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.73%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 125,
@@ -36,7 +36,7 @@
     "timeMonth": 124,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2021-03-17": 18
+      "2021-03-17": 19
     }
   },
   {
@@ -44,10 +44,10 @@
     "url": "https://thechels.uk",
     "icon": "https://favicons.githubusercontent.com/thechels.uk",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 157,
@@ -56,7 +56,7 @@
     "timeMonth": 284,
     "timeYear": 157,
     "dailyMinutesDown": {
-      "2021-03-17": 18
+      "2021-03-17": 19
     }
   },
   {
@@ -64,9 +64,9 @@
     "url": "https://finances.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/finances.thechels.uk",
     "slug": "finances",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "98.73%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -104,9 +104,9 @@
     "url": "https://isthereacrisis.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/isthereacrisis.thechels.uk",
     "slug": "crisis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
