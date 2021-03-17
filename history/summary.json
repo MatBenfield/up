@@ -4,10 +4,10 @@
     "url": "https://morning.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/morning.thechels.uk",
     "slug": "morning",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
@@ -15,17 +15,19 @@
     "timeWeek": 107,
     "timeMonth": 287,
     "timeYear": 168,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 2
+    }
   },
   {
     "name": "toCFCws",
     "url": "https://app.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/app.thechels.uk",
     "slug": "to-cf-cws",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 125,
@@ -33,17 +35,19 @@
     "timeWeek": 96,
     "timeMonth": 124,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Blog",
     "url": "https://thechels.uk",
     "icon": "https://favicons.githubusercontent.com/thechels.uk",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 156,
@@ -51,17 +55,19 @@
     "timeWeek": 104,
     "timeMonth": 286,
     "timeYear": 156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Finances",
     "url": "https://finances.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/finances.thechels.uk",
     "slug": "finances",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
@@ -69,16 +75,18 @@
     "timeWeek": 105,
     "timeMonth": 114,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 1
+    }
   },
   {
     "name": "Horoscopes",
     "url": "https://horofootball.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/horofootball.thechels.uk",
     "slug": "horoscopes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +95,18 @@
     "timeWeek": 74,
     "timeMonth": 99,
     "timeYear": 100,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   },
   {
     "name": "Crisis",
     "url": "https://isthereacrisis.thechels.uk",
     "icon": "https://favicons.githubusercontent.com/isthereacrisis.thechels.uk",
     "slug": "crisis",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +115,8 @@
     "timeWeek": 109,
     "timeMonth": 116,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-17": 0
+    }
   }
 ]
