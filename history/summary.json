@@ -10,11 +10,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 168,
-    "timeDay": 103,
-    "timeWeek": 121,
-    "timeMonth": 274,
-    "timeYear": 168,
+    "time": 167,
+    "timeDay": 101,
+    "timeWeek": 120,
+    "timeMonth": 273,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2021-03-17": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 125,
-    "timeDay": 112,
-    "timeWeek": 110,
+    "time": 124,
+    "timeDay": 63,
+    "timeWeek": 105,
     "timeMonth": 127,
-    "timeYear": 125,
+    "timeYear": 124,
     "dailyMinutesDown": {
       "2021-03-17": 56
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
-    "time": 155,
-    "timeDay": 78,
-    "timeWeek": 126,
-    "timeMonth": 279,
-    "timeYear": 155,
+    "time": 154,
+    "timeDay": 59,
+    "timeWeek": 121,
+    "timeMonth": 278,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2021-03-17": 55
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 109,
-    "timeDay": 140,
-    "timeWeek": 113,
-    "timeMonth": 117,
+    "timeDay": 65,
+    "timeWeek": 108,
+    "timeMonth": 115,
     "timeYear": 109,
     "dailyMinutesDown": {
       "2021-03-17": 55
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 101,
-    "timeDay": 145,
-    "timeWeek": 91,
-    "timeMonth": 103,
+    "timeDay": 66,
+    "timeWeek": 92,
+    "timeMonth": 102,
     "timeYear": 101,
     "dailyMinutesDown": {
       "2021-03-17": 17
@@ -110,11 +110,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.97%",
-    "time": 113,
-    "timeDay": 120,
-    "timeWeek": 102,
-    "timeMonth": 117,
-    "timeYear": 113,
+    "time": 114,
+    "timeDay": 127,
+    "timeWeek": 107,
+    "timeMonth": 119,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2021-03-17": 54
     }
