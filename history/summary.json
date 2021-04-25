@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 170,
-    "timeDay": 143,
-    "timeWeek": 144,
-    "timeMonth": 170,
+    "timeDay": 223,
+    "timeWeek": 156,
+    "timeMonth": 173,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2021-03-17": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 146,
-    "timeDay": 131,
-    "timeWeek": 121,
-    "timeMonth": 205,
+    "timeDay": 135,
+    "timeWeek": 132,
+    "timeMonth": 206,
     "timeYear": 146,
     "dailyMinutesDown": {
       "2021-03-17": 56
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 159,
-    "timeDay": 124,
-    "timeWeek": 122,
-    "timeMonth": 181,
+    "timeDay": 139,
+    "timeWeek": 130,
+    "timeMonth": 182,
     "timeYear": 159,
     "dailyMinutesDown": {
       "2021-03-17": 55
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 126,
-    "timeDay": 195,
-    "timeWeek": 122,
-    "timeMonth": 178,
+    "timeDay": 145,
+    "timeWeek": 121,
+    "timeMonth": 179,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2021-03-17": 55
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 165,
-    "timeWeek": 105,
+    "timeDay": 168,
+    "timeWeek": 117,
     "timeMonth": 141,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -105,16 +105,16 @@
     "icon": "https://favicons.githubusercontent.com/isthereacrisis.thechels.uk",
     "slug": "crisis",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 117,
-    "timeDay": 218,
-    "timeWeek": 119,
-    "timeMonth": 133,
-    "timeYear": 117,
+    "uptimeYear": "99.98%",
+    "time": 118,
+    "timeDay": 203,
+    "timeWeek": 142,
+    "timeMonth": 138,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2021-03-17": 54
     }
