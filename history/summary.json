@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 174,
-    "timeDay": 143,
-    "timeWeek": 154,
-    "timeMonth": 195,
-    "timeYear": 174,
+    "time": 173,
+    "timeDay": 60,
+    "timeWeek": 149,
+    "timeMonth": 190,
+    "timeYear": 173,
     "dailyMinutesDown": {
       "2021-03-17": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 154,
-    "timeDay": 144,
-    "timeWeek": 145,
-    "timeMonth": 193,
-    "timeYear": 154,
+    "time": 153,
+    "timeDay": 68,
+    "timeWeek": 137,
+    "timeMonth": 189,
+    "timeYear": 153,
     "dailyMinutesDown": {
       "2021-03-17": 56
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 158,
-    "timeDay": 99,
-    "timeWeek": 116,
-    "timeMonth": 148,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 92,
+    "timeWeek": 110,
+    "timeMonth": 146,
+    "timeYear": 157,
     "dailyMinutesDown": {
       "2021-03-17": 55
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 136,
-    "timeDay": 75,
-    "timeWeek": 153,
-    "timeMonth": 192,
+    "timeDay": 63,
+    "timeWeek": 109,
+    "timeMonth": 188,
     "timeYear": 136,
     "dailyMinutesDown": {
       "2021-03-17": 55
@@ -91,8 +91,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 117,
-    "timeDay": 93,
-    "timeWeek": 140,
+    "timeDay": 92,
+    "timeWeek": 105,
     "timeMonth": 153,
     "timeYear": 117,
     "dailyMinutesDown": {
@@ -110,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 122,
-    "timeDay": 102,
-    "timeWeek": 102,
-    "timeMonth": 150,
-    "timeYear": 122,
+    "time": 121,
+    "timeDay": 58,
+    "timeWeek": 103,
+    "timeMonth": 147,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2021-03-17": 54
     }
