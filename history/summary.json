@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 163,
-    "timeDay": 81,
-    "timeWeek": 119,
+    "timeDay": 125,
+    "timeWeek": 111,
     "timeMonth": 122,
     "timeYear": 163,
     "dailyMinutesDown": {
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 148,
-    "timeDay": 82,
-    "timeWeek": 145,
-    "timeMonth": 121,
+    "timeDay": 148,
+    "timeWeek": 141,
+    "timeMonth": 123,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2021-06-08": 22,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 149,
-    "timeDay": 105,
-    "timeWeek": 120,
-    "timeMonth": 128,
-    "timeYear": 149,
+    "time": 148,
+    "timeDay": 77,
+    "timeWeek": 108,
+    "timeMonth": 127,
+    "timeYear": 148,
     "dailyMinutesDown": {
       "2021-03-17": 55
     }
@@ -67,16 +67,16 @@
     "icon": "https://favicons.githubusercontent.com/finances.thechels.uk",
     "slug": "finances",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 139,
-    "timeDay": 92,
-    "timeWeek": 130,
-    "timeMonth": 118,
-    "timeYear": 139,
+    "uptimeYear": "99.99%",
+    "time": 138,
+    "timeDay": 68,
+    "timeWeek": 121,
+    "timeMonth": 116,
+    "timeYear": 138,
     "dailyMinutesDown": {
       "2021-03-17": 55
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 117,
-    "timeDay": 78,
-    "timeWeek": 115,
-    "timeMonth": 114,
+    "timeDay": 148,
+    "timeWeek": 116,
+    "timeMonth": 116,
     "timeYear": 117,
     "dailyMinutesDown": {
       "2021-03-17": 17
@@ -113,9 +113,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 120,
-    "timeDay": 69,
-    "timeWeek": 132,
-    "timeMonth": 107,
+    "timeDay": 117,
+    "timeWeek": 106,
+    "timeMonth": 108,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2021-03-17": 54
